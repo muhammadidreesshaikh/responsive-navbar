@@ -91,9 +91,8 @@
 
     .top-bar .mobile-nav .icon1
     {
-        padding-top: 10%;
+        margin: 10% 0px 0 20%;
         display: flex;
-        padding-left: 17%;
     }
 
     .top-bar .mobile-nav .icon1 i
@@ -123,12 +122,6 @@
 
 @media screen and (max-width: 600px)
 {
-    .top-bar .logo
-    {
-        display: block;
-        margin: auto;
-    }
-
     .openbtn
     {
         display: block;
